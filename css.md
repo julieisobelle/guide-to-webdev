@@ -71,8 +71,8 @@ h1 {
 `display: flex` brukes for å lage fleksible og responsive layouts.
 
 * `flex-direction`: Retning på elementene (`row`, `column`)
-* `justify-content`: Horisontal justering (f.eks. `space-between`, `center`)
-* `align-items`: Vertikal justering
+* `justify-content`: Horisontal justering (f.eks. `flex-start`, `center`, `flex-end`, `space-around`, `space-between`, `space-evenly`)
+* `align-items`: Vertikal justering (f.eks. `flex-start`, `center`, `flex-end`)
 
 Eksempel:
 
